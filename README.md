@@ -1,2 +1,2 @@
-# engineering-notes-hub
+project 1
 students notes website
